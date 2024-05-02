@@ -1,4 +1,4 @@
-# MERN Blog with Dashboard
+# FullStack Blog App with Admin Dashboard
 
 ![React Logo](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -18,7 +18,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Welcome to the MERN blog platform with a dynamic dashboard! Seamlessly blending MongoDB, Express.js, React, and Node.js, the project offers a powerful suite of features for creating, managing, and sharing content. With user authentication, intuitive CRUD operations, and a sleek dashboard interface, it's your all-in-one solution for modern web publishing.
+Welcome to the Fullstack blog platform with a dynamic dashboard! Seamlessly blending MongoDB, Express.js, React, and Node.js, the project offers a powerful suite of features for creating, managing, and sharing content. With user authentication, intuitive CRUD operations, and a sleek dashboard interface, it's your all-in-one solution for modern web publishing.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -70,8 +70,8 @@ Make sure you have the following installed on your machine:
 - **Cloning the Repository**
 
 ```bash
-git@github.com:Akashh141/MERN-Blog-App-with-Dashboard.git
-cd MERN-Blog-App-with-Dashboard
+git@github.com:Akashh141/FullStack-Blog-App-with-Admin-Dashboard.git
+cd FullStack-Blog-App-with-Admin-Dashboard
 
 **Installation**
 
